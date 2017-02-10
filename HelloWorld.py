@@ -12,5 +12,7 @@
  # See the License for the specific language governing permissions and
  # limitations under the License.
 
+# Wiki page : https://github.com/CTXz/Python-Sandbox/wiki/Hello%20World
+ 
 # Display "Hello World" onto terminal
 print("Hello world");
